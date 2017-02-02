@@ -1,0 +1,9 @@
+c:\users\hamad\documents\visual studio 2017\Projects\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.exe.config
+c:\users\hamad\documents\visual studio 2017\Projects\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.exe
+c:\users\hamad\documents\visual studio 2017\Projects\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.pdb
+c:\users\hamad\documents\visual studio 2017\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.csprojResolveAssemblyReference.cache
+c:\users\hamad\documents\visual studio 2017\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.Form1.resources
+c:\users\hamad\documents\visual studio 2017\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.Properties.Resources.resources
+c:\users\hamad\documents\visual studio 2017\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.csproj.GenerateResource.Cache
+c:\users\hamad\documents\visual studio 2017\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.exe
+c:\users\hamad\documents\visual studio 2017\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.pdb

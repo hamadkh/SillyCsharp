@@ -1,0 +1,9 @@
+c:\users\hamad\documents\visual studio 2017\Projects\CardIdentifier\CardIdentifier\bin\Debug\CardIdentifier.exe.config
+c:\users\hamad\documents\visual studio 2017\Projects\CardIdentifier\CardIdentifier\bin\Debug\CardIdentifier.exe
+c:\users\hamad\documents\visual studio 2017\Projects\CardIdentifier\CardIdentifier\bin\Debug\CardIdentifier.pdb
+c:\users\hamad\documents\visual studio 2017\Projects\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.csprojResolveAssemblyReference.cache
+c:\users\hamad\documents\visual studio 2017\Projects\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.Form1.resources
+c:\users\hamad\documents\visual studio 2017\Projects\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.Properties.Resources.resources
+c:\users\hamad\documents\visual studio 2017\Projects\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.csproj.GenerateResource.Cache
+c:\users\hamad\documents\visual studio 2017\Projects\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.exe
+c:\users\hamad\documents\visual studio 2017\Projects\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.pdb
