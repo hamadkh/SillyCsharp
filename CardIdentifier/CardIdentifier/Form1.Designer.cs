@@ -120,13 +120,14 @@
             // 
             // lblName
             // 
-            this.lblName.AutoSize = true;
+            this.lblName.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.lblName.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblName.Location = new System.Drawing.Point(332, 268);
+            this.lblName.Location = new System.Drawing.Point(12, 244);
             this.lblName.Name = "lblName";
-            this.lblName.Size = new System.Drawing.Size(41, 13);
+            this.lblName.Size = new System.Drawing.Size(710, 41);
             this.lblName.TabIndex = 8;
             this.lblName.Text = "label2";
+            this.lblName.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // Form1
             // 

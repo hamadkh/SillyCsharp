@@ -7,3 +7,12 @@ c:\users\hamad\documents\visual studio 2017\Projects\CardIdentifier\CardIdentifi
 c:\users\hamad\documents\visual studio 2017\Projects\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.csproj.GenerateResource.Cache
 c:\users\hamad\documents\visual studio 2017\Projects\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.exe
 c:\users\hamad\documents\visual studio 2017\Projects\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.pdb
+C:\Users\Hamad\Documents\GitHub\SillyC#\CardIdentifier\CardIdentifier\bin\Debug\CardIdentifier.exe.config
+C:\Users\Hamad\Documents\GitHub\SillyC#\CardIdentifier\CardIdentifier\bin\Debug\CardIdentifier.exe
+C:\Users\Hamad\Documents\GitHub\SillyC#\CardIdentifier\CardIdentifier\bin\Debug\CardIdentifier.pdb
+C:\Users\Hamad\Documents\GitHub\SillyC#\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.csprojResolveAssemblyReference.cache
+C:\Users\Hamad\Documents\GitHub\SillyC#\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.Form1.resources
+C:\Users\Hamad\Documents\GitHub\SillyC#\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.Properties.Resources.resources
+C:\Users\Hamad\Documents\GitHub\SillyC#\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.csproj.GenerateResource.Cache
+C:\Users\Hamad\Documents\GitHub\SillyC#\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.exe
+C:\Users\Hamad\Documents\GitHub\SillyC#\CardIdentifier\CardIdentifier\obj\Debug\CardIdentifier.pdb
