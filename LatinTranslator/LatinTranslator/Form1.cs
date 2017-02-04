@@ -29,7 +29,7 @@ namespace LatinTranslator
         private void btnSinister_Click(object sender, EventArgs e)
         {
             reset();
-            lblTranslation.Text = "sinister";
+            lblTranslation.Text = "left";
             btnSinister.BackColor = Color.Orange;
         }
 
@@ -43,7 +43,7 @@ namespace LatinTranslator
         private void btnMedium_Click(object sender, EventArgs e)
         {
             reset();
-            lblTranslation.Text = "medium";
+            lblTranslation.Text = "center";
             btnMedium.BackColor = Color.Orange;
         }
 

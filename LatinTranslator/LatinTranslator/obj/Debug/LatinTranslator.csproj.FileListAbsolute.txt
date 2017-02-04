@@ -7,3 +7,12 @@ c:\users\hamad\documents\visual studio 2017\Projects\LatinTranslator\LatinTransl
 c:\users\hamad\documents\visual studio 2017\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.csproj.GenerateResource.Cache
 c:\users\hamad\documents\visual studio 2017\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.exe
 c:\users\hamad\documents\visual studio 2017\Projects\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.pdb
+C:\Users\Hamad\Documents\GitHub\SillyC#\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.exe.config
+C:\Users\Hamad\Documents\GitHub\SillyC#\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.exe
+C:\Users\Hamad\Documents\GitHub\SillyC#\LatinTranslator\LatinTranslator\bin\Debug\LatinTranslator.pdb
+C:\Users\Hamad\Documents\GitHub\SillyC#\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.csprojResolveAssemblyReference.cache
+C:\Users\Hamad\Documents\GitHub\SillyC#\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.Form1.resources
+C:\Users\Hamad\Documents\GitHub\SillyC#\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.Properties.Resources.resources
+C:\Users\Hamad\Documents\GitHub\SillyC#\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.csproj.GenerateResource.Cache
+C:\Users\Hamad\Documents\GitHub\SillyC#\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.exe
+C:\Users\Hamad\Documents\GitHub\SillyC#\LatinTranslator\LatinTranslator\obj\Debug\LatinTranslator.pdb

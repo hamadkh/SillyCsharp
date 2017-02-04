@@ -26,12 +26,12 @@ namespace JokePunchline
 
         private void btnSetup_Click(object sender, EventArgs e)
         {
-            lblText.Text = "What's the Object-Oriented way to become wealthy ?";
+            lblText.Text = "Why do Java programmers have to wear glasses?";
         }
 
         private void btnPunchline_Click(object sender, EventArgs e)
         {
-            lblText.Text = "Inheritance";
+            lblText.Text = "Because they don't C#.";
         }
     }
 }

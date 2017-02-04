@@ -70,6 +70,9 @@
             this.Controls.Add(this.lblText);
             this.Controls.Add(this.btnPunchline);
             this.Controls.Add(this.btnSetup);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "Form1";
             this.RightToLeftLayout = true;
             this.Text = "Joke & Punchline ";
