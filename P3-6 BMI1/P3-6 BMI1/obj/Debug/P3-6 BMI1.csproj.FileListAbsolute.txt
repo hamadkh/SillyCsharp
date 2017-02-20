@@ -1,0 +1,10 @@
+C:\JE Class\MIS220\Fall 2016\P3-6 BMI1\P3-6 BMI1\bin\Debug\P3-6 BMI1.exe.config
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-6 BMI1\P3-6 BMI1\bin\Debug\P3-6 BMI1.exe.config
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-6 BMI1\P3-6 BMI1\bin\Debug\P3-6 BMI1.exe
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-6 BMI1\P3-6 BMI1\bin\Debug\P3-6 BMI1.pdb
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-6 BMI1\P3-6 BMI1\obj\Debug\P3-6 BMI1.csprojResolveAssemblyReference.cache
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-6 BMI1\P3-6 BMI1\obj\Debug\P3_6_BMI.BMI.resources
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-6 BMI1\P3-6 BMI1\obj\Debug\P3_6_BMI.Properties.Resources.resources
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-6 BMI1\P3-6 BMI1\obj\Debug\P3-6 BMI1.csproj.GenerateResource.Cache
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-6 BMI1\P3-6 BMI1\obj\Debug\P3-6 BMI1.exe
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-6 BMI1\P3-6 BMI1\obj\Debug\P3-6 BMI1.pdb

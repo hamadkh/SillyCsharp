@@ -60,6 +60,7 @@ namespace P3_3_Distance_Traveled
             txtHours.Text = "";
             txtMiles.Text = "";
             txtTotal.Text = "";
+            txtMiles.Select();
         }
 
         double distanceCalc(double speed, double hours)
