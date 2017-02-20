@@ -1,0 +1,18 @@
+C:\Users\ccsu\AppData\Local\Temporary Projects\P3-11 Automobile Costs\bin\Debug\P3-11 Automobile Costs.exe.config
+C:\JE Class\MIS220\Fall 2016\P3-11 Automobile Costs\P3-11 Automobile Costs\bin\Debug\P3-11 Automobile Costs.exe.config
+C:\JE Class\MIS220\Fall 2016\P3-11 Automobile Costs\P3-11 Automobile Costs\bin\Debug\P3-11 Automobile Costs.exe
+C:\JE Class\MIS220\Fall 2016\P3-11 Automobile Costs\P3-11 Automobile Costs\bin\Debug\P3-11 Automobile Costs.pdb
+C:\JE Class\MIS220\Fall 2016\P3-11 Automobile Costs\P3-11 Automobile Costs\obj\Debug\P3_11_Automobile_Costs.Form1.resources
+C:\JE Class\MIS220\Fall 2016\P3-11 Automobile Costs\P3-11 Automobile Costs\obj\Debug\P3_11_Automobile_Costs.Properties.Resources.resources
+C:\JE Class\MIS220\Fall 2016\P3-11 Automobile Costs\P3-11 Automobile Costs\obj\Debug\P3-11 Automobile Costs.csproj.GenerateResource.Cache
+C:\JE Class\MIS220\Fall 2016\P3-11 Automobile Costs\P3-11 Automobile Costs\obj\Debug\P3-11 Automobile Costs.exe
+C:\JE Class\MIS220\Fall 2016\P3-11 Automobile Costs\P3-11 Automobile Costs\obj\Debug\P3-11 Automobile Costs.pdb
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-11 Automobile Costs\P3-11 Automobile Costs\bin\Debug\P3-11 Automobile Costs.exe.config
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-11 Automobile Costs\P3-11 Automobile Costs\bin\Debug\P3-11 Automobile Costs.exe
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-11 Automobile Costs\P3-11 Automobile Costs\bin\Debug\P3-11 Automobile Costs.pdb
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-11 Automobile Costs\P3-11 Automobile Costs\obj\Debug\P3-11 Automobile Costs.csprojResolveAssemblyReference.cache
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-11 Automobile Costs\P3-11 Automobile Costs\obj\Debug\P3_11_Automobile_Costs.AutoCost.resources
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-11 Automobile Costs\P3-11 Automobile Costs\obj\Debug\P3_11_Automobile_Costs.Properties.Resources.resources
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-11 Automobile Costs\P3-11 Automobile Costs\obj\Debug\P3-11 Automobile Costs.csproj.GenerateResource.Cache
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-11 Automobile Costs\P3-11 Automobile Costs\obj\Debug\P3-11 Automobile Costs.exe
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-11 Automobile Costs\P3-11 Automobile Costs\obj\Debug\P3-11 Automobile Costs.pdb
