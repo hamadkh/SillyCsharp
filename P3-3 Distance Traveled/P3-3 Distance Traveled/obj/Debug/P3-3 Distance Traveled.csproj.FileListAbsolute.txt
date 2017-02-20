@@ -1,0 +1,20 @@
+C:\Users\ccsu\AppData\Local\Temporary Projects\P3-3 Distance Traveled\bin\Debug\P3-3 Distance Traveled.exe.config
+C:\JE Class\MIS220\Fall 2016\P3-3 Distance Traveled\P3-3 Distance Traveled\bin\Debug\P3-3 Distance Traveled.exe.config
+C:\Users\Hamad\Desktop\Chapter 3 Assignments\P3-3 Distance Traveled\P3-3 Distance Traveled\bin\Debug\P3-3 Distance Traveled.exe.config
+C:\Users\Hamad\Desktop\Chapter 3 Assignments\P3-3 Distance Traveled\P3-3 Distance Traveled\bin\Debug\P3-3 Distance Traveled.exe
+C:\Users\Hamad\Desktop\Chapter 3 Assignments\P3-3 Distance Traveled\P3-3 Distance Traveled\bin\Debug\P3-3 Distance Traveled.pdb
+C:\Users\Hamad\Desktop\Chapter 3 Assignments\P3-3 Distance Traveled\P3-3 Distance Traveled\obj\Debug\P3-3 Distance Traveled.csprojResolveAssemblyReference.cache
+C:\Users\Hamad\Desktop\Chapter 3 Assignments\P3-3 Distance Traveled\P3-3 Distance Traveled\obj\Debug\P3_3_Distance_Traveled.distanceCalculator.resources
+C:\Users\Hamad\Desktop\Chapter 3 Assignments\P3-3 Distance Traveled\P3-3 Distance Traveled\obj\Debug\P3_3_Distance_Traveled.Properties.Resources.resources
+C:\Users\Hamad\Desktop\Chapter 3 Assignments\P3-3 Distance Traveled\P3-3 Distance Traveled\obj\Debug\P3-3 Distance Traveled.csproj.GenerateResource.Cache
+C:\Users\Hamad\Desktop\Chapter 3 Assignments\P3-3 Distance Traveled\P3-3 Distance Traveled\obj\Debug\P3-3 Distance Traveled.exe
+C:\Users\Hamad\Desktop\Chapter 3 Assignments\P3-3 Distance Traveled\P3-3 Distance Traveled\obj\Debug\P3-3 Distance Traveled.pdb
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-3 Distance Traveled\P3-3 Distance Traveled\bin\Debug\P3-3 Distance Traveled.exe.config
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-3 Distance Traveled\P3-3 Distance Traveled\bin\Debug\P3-3 Distance Traveled.exe
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-3 Distance Traveled\P3-3 Distance Traveled\bin\Debug\P3-3 Distance Traveled.pdb
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-3 Distance Traveled\P3-3 Distance Traveled\obj\Debug\P3-3 Distance Traveled.csprojResolveAssemblyReference.cache
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-3 Distance Traveled\P3-3 Distance Traveled\obj\Debug\P3_3_Distance_Traveled.distanceCalculator.resources
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-3 Distance Traveled\P3-3 Distance Traveled\obj\Debug\P3_3_Distance_Traveled.Properties.Resources.resources
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-3 Distance Traveled\P3-3 Distance Traveled\obj\Debug\P3-3 Distance Traveled.csproj.GenerateResource.Cache
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-3 Distance Traveled\P3-3 Distance Traveled\obj\Debug\P3-3 Distance Traveled.exe
+C:\Users\Hamad\Documents\GitHub\SillyC#\P3-3 Distance Traveled\P3-3 Distance Traveled\obj\Debug\P3-3 Distance Traveled.pdb
