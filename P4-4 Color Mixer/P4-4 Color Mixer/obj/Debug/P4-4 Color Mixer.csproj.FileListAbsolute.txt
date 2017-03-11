@@ -1,0 +1,11 @@
+C:\Users\ccsu\AppData\Local\Temporary Projects\P4-4 Color Mixer\bin\Debug\P4-4 Color Mixer.exe.config
+C:\JE Class\MIS220\Fall 2016\P4-4 Color Mixer\P4-4 Color Mixer\bin\Debug\P4-4 Color Mixer.exe.config
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-4 Color Mixer\P4-4 Color Mixer\bin\Debug\P4-4 Color Mixer.exe.config
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-4 Color Mixer\P4-4 Color Mixer\bin\Debug\P4-4 Color Mixer.exe
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-4 Color Mixer\P4-4 Color Mixer\bin\Debug\P4-4 Color Mixer.pdb
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-4 Color Mixer\P4-4 Color Mixer\obj\Debug\P4-4 Color Mixer.csprojResolveAssemblyReference.cache
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-4 Color Mixer\P4-4 Color Mixer\obj\Debug\P4_4_Color_Mixer.ColorMixer.resources
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-4 Color Mixer\P4-4 Color Mixer\obj\Debug\P4_4_Color_Mixer.Properties.Resources.resources
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-4 Color Mixer\P4-4 Color Mixer\obj\Debug\P4-4 Color Mixer.csproj.GenerateResource.Cache
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-4 Color Mixer\P4-4 Color Mixer\obj\Debug\P4-4 Color Mixer.exe
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-4 Color Mixer\P4-4 Color Mixer\obj\Debug\P4-4 Color Mixer.pdb
