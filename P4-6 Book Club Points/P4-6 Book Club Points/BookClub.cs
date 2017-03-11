@@ -74,6 +74,8 @@ namespace P4_6_Book_Club_Points
             catch (Exception ex)
             {
                 MessageBox.Show("Enter a proper Value", ex.Message);
+                txtBooks.Text = "";
+                txtBooks.Focus();
             }         
         }
 

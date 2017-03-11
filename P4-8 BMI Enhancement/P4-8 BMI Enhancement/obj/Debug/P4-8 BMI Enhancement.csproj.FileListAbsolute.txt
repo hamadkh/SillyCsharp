@@ -1,0 +1,2 @@
+C:\Users\ccsu\AppData\Local\Temporary Projects\P4-8 BMI Enhancement\bin\Debug\P4-8 BMI Enhancement.exe.config
+C:\JE Class\MIS220\Fall 2016\P4-8 BMI Enhancement\P4-8 BMI Enhancement\bin\Debug\P4-8 BMI Enhancement.exe.config
