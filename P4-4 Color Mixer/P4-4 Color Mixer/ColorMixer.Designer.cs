@@ -167,6 +167,7 @@
             // 
             // btnExit
             // 
+            this.btnExit.DialogResult = System.Windows.Forms.DialogResult.Cancel;
             this.btnExit.Location = new System.Drawing.Point(479, 136);
             this.btnExit.Margin = new System.Windows.Forms.Padding(4);
             this.btnExit.Name = "btnExit";
@@ -174,6 +175,7 @@
             this.btnExit.TabIndex = 4;
             this.btnExit.Text = "E&xit";
             this.btnExit.UseVisualStyleBackColor = true;
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
             // ColorMixer
             // 

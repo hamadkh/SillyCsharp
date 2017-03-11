@@ -65,5 +65,10 @@ namespace P4_4_Color_Mixer
             radioYellowRight.Checked = false;
             radioRedRight.Checked = false;
         }
+
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

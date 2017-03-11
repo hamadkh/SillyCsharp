@@ -1,0 +1,11 @@
+C:\Users\ccsu\AppData\Local\Temporary Projects\P4-6 Book Club Points\bin\Debug\P4-6 Book Club Points.exe.config
+C:\JE Class\MIS220\Fall 2016\P4-6 Book Club Points\P4-6 Book Club Points\bin\Debug\P4-6 Book Club Points.exe.config
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-6 Book Club Points\P4-6 Book Club Points\obj\Debug\P4-6 Book Club Points.csprojResolveAssemblyReference.cache
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-6 Book Club Points\P4-6 Book Club Points\obj\Debug\P4_6_Book_Club_Points.BookClub.resources
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-6 Book Club Points\P4-6 Book Club Points\obj\Debug\P4_6_Book_Club_Points.Properties.Resources.resources
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-6 Book Club Points\P4-6 Book Club Points\obj\Debug\P4-6 Book Club Points.csproj.GenerateResource.Cache
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-6 Book Club Points\P4-6 Book Club Points\bin\Debug\P4-6 Book Club Points.exe.config
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-6 Book Club Points\P4-6 Book Club Points\bin\Debug\P4-6 Book Club Points.exe
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-6 Book Club Points\P4-6 Book Club Points\bin\Debug\P4-6 Book Club Points.pdb
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-6 Book Club Points\P4-6 Book Club Points\obj\Debug\P4-6 Book Club Points.exe
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-6 Book Club Points\P4-6 Book Club Points\obj\Debug\P4-6 Book Club Points.pdb
