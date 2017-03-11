@@ -1,2 +1,11 @@
 C:\Users\ccsu\AppData\Local\Temporary Projects\P4-8 BMI Enhancement\bin\Debug\P4-8 BMI Enhancement.exe.config
 C:\JE Class\MIS220\Fall 2016\P4-8 BMI Enhancement\P4-8 BMI Enhancement\bin\Debug\P4-8 BMI Enhancement.exe.config
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-8 BMI Enhancement\P4-8 BMI Enhancement\bin\Debug\P4-8 BMI Enhancement.exe.config
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-8 BMI Enhancement\P4-8 BMI Enhancement\bin\Debug\P4-8 BMI Enhancement.exe
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-8 BMI Enhancement\P4-8 BMI Enhancement\bin\Debug\P4-8 BMI Enhancement.pdb
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-8 BMI Enhancement\P4-8 BMI Enhancement\obj\Debug\P4-8 BMI Enhancement.csprojResolveAssemblyReference.cache
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-8 BMI Enhancement\P4-8 BMI Enhancement\obj\Debug\P4_8_BMI_Enhancement.BMI.resources
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-8 BMI Enhancement\P4-8 BMI Enhancement\obj\Debug\P4_8_BMI_Enhancement.Properties.Resources.resources
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-8 BMI Enhancement\P4-8 BMI Enhancement\obj\Debug\P4-8 BMI Enhancement.csproj.GenerateResource.Cache
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-8 BMI Enhancement\P4-8 BMI Enhancement\obj\Debug\P4-8 BMI Enhancement.exe
+C:\Users\Hamad\Documents\GitHub\SillyC#\P4-8 BMI Enhancement\P4-8 BMI Enhancement\obj\Debug\P4-8 BMI Enhancement.pdb
