@@ -65,8 +65,19 @@ namespace P4_8_BMI_Enhancement
             }
             catch (Exception ex)
             {
-
                 MessageBox.Show("Enter a correct Value",ex.Message);
+
+                if (!double.TryParse(txtHeight.Text, out height))
+                {
+                    txtHeight.Select();
+                    return;
+                }
+
+                else if (!double.TryParse(txtWeight.Text, out weight))
+                {
+                    txtWeight.Select();
+                    return;
+                }
             }
            
         }
